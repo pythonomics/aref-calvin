@@ -1,3 +1,6 @@
+# The Mongo database is currently only accessible on the localhost.
+# I will try to publish a public webpage using Amazon Web Services tomorrow. 
+
 import pymongo
 from pymongo import MongoClient
 
